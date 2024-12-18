@@ -70,7 +70,7 @@
     "gsap": "^3.12.4",
     "js-yaml": "^4.1.0",
     "lucide-react": "^0.408.0",
-    "next": "^14.0.4",
+    "next": "^14.2.15",
     "next-ssl-redirect-middleware": "^0.1.5",
     "posthog-js": "^1.98.2",
     "radash": "^11.0.0",
